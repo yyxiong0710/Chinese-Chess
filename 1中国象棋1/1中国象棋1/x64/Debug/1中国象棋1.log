@@ -1,0 +1,36 @@
+﻿  FileName.cpp
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(16,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(17,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(19,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(73,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(73,9): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(76,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(76,9): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(77,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(77,9): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(85,70): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(85,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(86,87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(86,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(88,96): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(88,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(89,79): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(89,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(91,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(101,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(168,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(180,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(193,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(194,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(195,82): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(195,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(195,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(195,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(200,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(206,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(227,102): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(232,103): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(597,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(614,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\1中国象棋1\1中国象棋1\FileName.cpp(549,1): warning C4715: “chessmove”: 不是所有的控件路径都返回值
+  1中国象棋1.vcxproj -> C:\Users\youyi\source\repos\1中国象棋1\x64\Debug\1中国象棋1.exe
